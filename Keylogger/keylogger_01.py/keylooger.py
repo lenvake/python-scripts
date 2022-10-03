@@ -1,5 +1,5 @@
 ######################################
-#Copyright of David lenvake, 2022    #         
+#Copyright of David lenvake, 2022             
 ######################################
 
 from pynput.keyboard import Listener
