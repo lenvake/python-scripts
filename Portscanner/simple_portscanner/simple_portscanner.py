@@ -1,3 +1,6 @@
+######################################
+#Copyright of David lenvake, 2022             
+######################################
 import socket
 import termcolor #in order to print some statements in diffrent colours
 
