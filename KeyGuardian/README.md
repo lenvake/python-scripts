@@ -11,3 +11,4 @@ What do you need?
 ```bash
 You need to have Python 3.1 or above installed on your computer.
 ```
+Enter 'help' and KeyGuardian will help you as much as possible
