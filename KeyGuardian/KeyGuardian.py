@@ -170,7 +170,7 @@ print(
 while True:
     print("To know more, type 'help'")
     print(
-        "If you are ready to use and this is your first time,Type 'New'\nIf already used before type 'Old'"
+        "If this is your first time using KeyGuardian, type 'New'\nIf already used before type 'Old'"
     )
 
     userChoice = input("Enter your choice:").lower()
