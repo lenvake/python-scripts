@@ -1,11 +1,11 @@
 ## KeyGuardian
    How to install:
 ```bash
-1. git clone 
+1. git clone https://github.com/lenvake/python-scripts/KeyGuardian
 2. pip3 install -r requirements.txt
 3. python3 KqyGuardian.py
 ```
-Type the following command to execute it:
+What do you need?
 ```bash
-python3 simple_portscanner.py --> python has to be installed
+You need to have Python 3.1 or above installed on your computer.
 ```
