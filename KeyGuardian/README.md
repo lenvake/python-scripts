@@ -1,6 +1,6 @@
 ## KeyGuardian
-<h3 align="center">KeyGuardian is your personal guardian that helps you control access to your accounts and information.
-</h3>
+KeyGuardian is your personal guardian that helps you control access to your accounts and information.
+
    How to install:
 ```bash
 1. git clone https://github.com/lenvake/python-scripts/KeyGuardian
