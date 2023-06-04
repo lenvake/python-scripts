@@ -3,7 +3,7 @@
 ```bash
 1. git clone https://github.com/lenvake/python-scripts/KeyGuardian
 2. pip3 install -r requirements.txt
-3. python3 KqyGuardian.py
+3. python3 KeyGuardian.py
 ```
 What do you need?
 ```bash
