@@ -43,7 +43,7 @@ def getCredentials():
     return [websiteName, username, password]
 
 
-# For getting the master password
+# For gettting the master password
 
 
 def getMasterPassword(case):
