@@ -45,7 +45,7 @@ def socket_bind(): #Accept the IPv4 adress firmly in the form of the host and po
     global objSocket
     try:
         print("Listening on the port: "+str(intPort))
-        objSocket.bind((strHost,intPort)) #adress familiy representator --> take the form into the tuple of host and port
+        objSocket.bind((strHost,intPort)) #adress familiy representator --> take the form intto the tuple of host and port
         objSocket.listen(20)
 
     except socket.error() as strError: 
