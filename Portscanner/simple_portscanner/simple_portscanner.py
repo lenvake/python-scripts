@@ -14,7 +14,7 @@ def scan_port(ipaddress, port):
     #to figure out wheter a certain Port is closed or opened
     #--> using try and except statement
             sock = socket.socket() #it will try to initiate the socket object
-            sock.connect((ipaddress, port)) #trying to connect to a certain port/ip-adress
+            sock.connect((ipaddress, port)) #trying to connnect to a certain port/ip-adress
             print("[+] Port is open" + str(port))
             sock.close()
 
